@@ -1,0 +1,185 @@
+{
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "scraped_at": "2026-03-04T22:08:58.242966",
+  "version_hash": "6524645411310914183",
+  "sections": [
+    {
+      "title": "Explore Get Started",
+      "content": "OverviewLearnApple Developer Program",
+      "guideline_codes": []
+    },
+    {
+      "title": "Stay Updated",
+      "content": "Latest NewsHello Developer",
+      "guideline_codes": []
+    },
+    {
+      "title": "Explore Platforms",
+      "content": "Apple PlatformsiOSiPadOSmacOStvOSvisionOSwatchOSApp Store",
+      "guideline_codes": []
+    },
+    {
+      "title": "Featured",
+      "content": "DesignDistributionGamesAccessoriesWebHomeCarPlay",
+      "guideline_codes": []
+    },
+    {
+      "title": "Explore Technologies",
+      "content": "OverviewXcodeSwiftSwiftUI",
+      "guideline_codes": []
+    },
+    {
+      "title": "Featured",
+      "content": "AccessibilityApp IntentsApple IntelligenceGamesMachine Learning & AISecurityXcode Cloud",
+      "guideline_codes": []
+    },
+    {
+      "title": "Explore Community",
+      "content": "OverviewMeet with Apple eventsCommunity-driven eventsDeveloper ForumsOpen Source",
+      "guideline_codes": []
+    },
+    {
+      "title": "Featured",
+      "content": "WWDCSwift Student ChallengeDeveloper StoriesApp Store AwardsApple Design AwardsApple Developer Centers",
+      "guideline_codes": []
+    },
+    {
+      "title": "Explore Documentation",
+      "content": "Documentation LibraryTechnology OverviewsSample CodeHuman Interface GuidelinesVideos",
+      "guideline_codes": []
+    },
+    {
+      "title": "Release Notes",
+      "content": "Featured UpdatesiOSiPadOSmacOSwatchOSvisionOStvOSXcode",
+      "guideline_codes": []
+    },
+    {
+      "title": "Explore Downloads",
+      "content": "All DownloadsOperating SystemsApplicationsDesign Resources",
+      "guideline_codes": []
+    },
+    {
+      "title": "Featured",
+      "content": "XcodeTestFlightFontsSF SymbolsIcon Composer",
+      "guideline_codes": []
+    },
+    {
+      "title": "Explore Support",
+      "content": "OverviewHelp GuidesDeveloper ForumsFeedback AssistantContact Us",
+      "guideline_codes": []
+    },
+    {
+      "title": "Featured",
+      "content": "Account HelpApp Review GuidelinesApp Store Connect HelpUpcoming RequirementsAgreements and GuidelinesSystem Status",
+      "guideline_codes": []
+    },
+    {
+      "title": "Quick Links",
+      "content": "EventsNewsForumsSample CodeVideos",
+      "guideline_codes": []
+    },
+    {
+      "title": "App Review",
+      "content": "Open MenuClose MenuOverviewApp Review Guidelines",
+      "guideline_codes": []
+    },
+    {
+      "title": "Introduction",
+      "content": "The guiding principle of the App\u00a0Store is simple\u00e2\u0080\u0094we want to provide a safe experience for users to get apps and a great opportunity for all developers to be successful. We do this by offering a highly curated App\u00a0Store where every app is reviewed by experts and an editorial team helps users discover new apps every day. We also scan each app for malware and other software that may impact user safety, security, and privacy. These efforts have made Apple\u00e2\u0080\u0099s platforms the safest for consumers around the world. In the European Union, developers can also distribute notarized iOS and iPadOS apps from alternative app marketplaces and directly from their website; in Japan, developers can also distribute iOS apps from alternative app marketplaces. Learn more aboutalternative app marketplaces,Web Distribution, andNotarization for iOS and iPadOS apps. You can see which guidelines apply to Notarization for iOS and iPadOS apps by clicking on \u00e2\u0080\u009cHighlight Notarization Review Guidelines Only\u00e2\u0080\u009d in the menu to the left. For everything else there is always the open Internet. If the App\u00a0Store model and guidelines or alternative distribution and Notarization for iOS and iPadOS apps are not best for your app or business idea that\u00e2\u0080\u0099s okay, we provide Safari for a great web experience too. On the following pages you will find our latest guidelines arranged into five clear sections: Safety, Performance, Business, Design, and Legal. The App\u00a0Store is always changing and improving to keep up with the needs of our customers and our products. Your apps should change and improve as well in order to stay on the App\u00a0Store. A few other points to keep in mind about distributing your app on our platforms: We have lots of kids downloading lots of apps. Parental controls work great to protect kids, but you have to do your part too. So know that we\u00e2\u0080\u0099re keeping an eye out for the kids.The App\u00a0Store is a great way to reach hundreds of millions of people around the world. If you build an app that you ",
+      "guideline_codes": []
+    },
+    {
+      "title": "Before You Submit",
+      "content": "To help your app approval go as smoothly as possible, review the common missteps listed below that can slow down the review process or trigger a rejection. This doesn\u00e2\u0080\u0099t replace the guidelines or guarantee approval, but making sure you can check every item on the list is a good start. If your app no longer functions as intended or you\u00e2\u0080\u0099re no longer actively supporting it, it will be removed from the App\u00a0Store.Learn more about App\u00a0Store Improvements. Make sure you: Test your app for crashes and bugsEnsure that all app information and metadata is complete and accurateUpdate your contact information in case App\u00a0Review needs to reach youProvide App\u00a0Review with full access to your app. If your app includes account-based features, provide either an active demo account or fully-featured demo mode, plus any other hardware or resources that might be needed to review your app (e.g. login credentials or a sample QR code)Enable backend services so that they\u00e2\u0080\u0099re live and accessible during reviewInclude detailed explanations of non-obvious features and in-app purchases in the App\u00a0Review notes, including supporting documentation where appropriateCheck whether your app follows guidance in other documentation, such as: Developer DocumentationSwiftUIUIKitAppKitApp extensionsOptimizing Your App\u00e2\u0080\u0099s Data for iCloud BackupApple File SystemApp\u00a0Store\u00a0Connect HelpDeveloper Account HelpDesign GuidelinesHuman Interface GuidelinesBrand and Marketing GuidelinesMarketing Resources and Identity GuidelinesApple Pay Marketing GuidelinesAdd to Apple Wallet GuidelinesGuidelines for Using Apple Trademarks and Copyrights Guidelines that includeapply toNotarization for iOS and iPadOS apps in the EUandNotarization for iOS apps in Japan.",
+      "guideline_codes": []
+    },
+    {
+      "title": "1. Safety",
+      "content": "When people install an app from the App\u00a0Store, they want to feel confident that it\u00e2\u0080\u0099s safe to do so\u00e2\u0080\u0094that the app doesn\u00e2\u0080\u0099t contain upsetting or offensive content, won\u00e2\u0080\u0099t damage their device, and isn\u00e2\u0080\u0099t likely to cause physical harm from its use. We\u00e2\u0080\u0099ve outlined the major pitfalls below, but if you\u00e2\u0080\u0099re looking to shock and offend people, the App\u00a0Store isn\u00e2\u0080\u0099t the right place for your app. Some of these rules are also included in Notarization for iOS and iPadOS apps. 1.1 Objectionable ContentApps should not include content that is offensive, insensitive, upsetting, intended to disgust, in exceptionally poor taste, or just plain creepy. Examples of such content include:1.1.1Defamatory, discriminatory, or mean-spirited content, including references or commentary about religion, race, sexual orientation, gender, national/ethnic origin, or other targeted groups, particularly if the app is likely to humiliate, intimidate, or harm a targeted individual or group. Professional political satirists and humorists are generally exempt from this requirement.1.1.2Realistic portrayals of people or animals being killed, maimed, tortured, or abused, or content that encourages violence. \u00e2\u0080\u009cEnemies\u00e2\u0080\u009d within the context of a game cannot solely target a specific race, culture, real government, corporation, or any other real entity.1.1.3Depictions that encourage illegal or reckless use of weapons and dangerous objects, or facilitate the purchase of firearms or ammunition.1.1.4Overtly sexual or pornographic material, defined as \u00e2\u0080\u009cexplicit descriptions or displays of sexual organs or activities intended to stimulate erotic rather than aesthetic or emotional feelings.\u00e2\u0080\u009d This includes \u00e2\u0080\u009chookup\u00e2\u0080\u009d apps and other apps that may include pornography or be used to facilitate prostitution, or human trafficking and exploitation.1.1.5Inflammatory religious commentary or inaccurate or misleading quotations of religious texts.1.1.6False information and features, including inaccurate device dat",
+      "guideline_codes": [
+        "1.1"
+      ]
+    },
+    {
+      "title": "2. Performance",
+      "content": "2.1 App Completeness(a)Submissions to App\u00a0Review, including apps you make available for pre-order, should be final versions with all necessary metadata and fully functional URLs included; placeholder text, empty websites, and other temporary content should be scrubbed before submission. Make sure your app has been tested on-device for bugs and stability before you submit it, and include demo account info (and turn on your back-end service!) if your app includes a login. If you are unable to provide a demo account due to legal or security obligations, you may include a built-in demo mode in lieu of a demo account with prior approval by Apple. Ensure the demo mode exhibits your app\u00e2\u0080\u0099s full features and functionality. We will reject incomplete app bundles and binaries that crash or exhibit obvious technical problems.(b)If you offer in-app purchases in your app, make sure they are complete, up-to-date, visible to the reviewer and functional. If any configured in-app purchase items cannot be found or reviewed in your app, explain the reason in your review notes.2.2 Beta TestingDemos, betas, and trial versions of your app don\u00e2\u0080\u0099t belong on the App\u00a0Store\u00a0\u00e2\u0080\u0093 use TestFlight instead. Any app submitted for beta distribution via TestFlight should be intended for public distribution and should comply with the App\u00a0Review Guidelines. Note, however, that apps using TestFlight cannot be distributed to testers in exchange for compensation of any kind, including as a reward for crowd-sourced funding. Significant updates to your beta build should be submitted to TestFlight App\u00a0Review before being distributed to your testers. To learn more, visit theTestFlight Beta Testingpage.2.3Accurate MetadataCustomers should know what they\u00e2\u0080\u0099re getting when they download or buy your app, so make sure all your app metadata, including privacy information, your app description, screenshots, and previews accurately reflect the app\u00e2\u0080\u0099s core experience and remember to keep them up-to-date with new vers",
+      "guideline_codes": [
+        "2.2",
+        "2.1"
+      ]
+    },
+    {
+      "title": "3. Business",
+      "content": "There are many ways to monetize your app on the App\u00a0Store. If your business model isn\u00e2\u0080\u0099t obvious, make sure to explain in its metadata and App\u00a0Review notes. If we can\u00e2\u0080\u0099t understand how your app works or your in-app purchases aren\u00e2\u0080\u0099t immediately obvious, it will delay your review and may trigger a rejection. And while pricing is up to you, we won\u00e2\u0080\u0099t distribute apps and in-app purchase items that are clear rip-offs. We\u00e2\u0080\u0099ll reject expensive apps that try to cheat users with irrationally high prices. If we find that you have attempted to manipulate reviews, inflate your chart rankings with paid, incentivized, filtered, or fake feedback, or engage with third-party services to do so on your behalf, we will take steps to preserve the integrity of the App\u00a0Store, which may include expelling you from the Apple\u00a0Developer\u00a0Program. 3.1 Payments3.1.1 In-App Purchase:If you want to unlock features or functionality within your app, (by way of example: subscriptions, in-game currencies, game levels, access to premium content, or unlocking a full version), you must use in-app purchase. Apps may not use their own mechanisms to unlock content or functionality, such as license keys, augmented reality markers, QR codes, cryptocurrencies and cryptocurrency wallets, etc.Apps may use in-app purchase currencies to enable customers to \u00e2\u0080\u009ctip\u00e2\u0080\u009d the developer or digital content providers in the app.Any credits or in-game currencies purchased via in-app purchase may not expire, and you should make sure you have a restore mechanism for any restorable in-app purchases.Apps may enable gifting of items that are eligible for in-app purchase to others. Such gifts may only be refunded to the original purchaser and may not be exchanged.Apps distributed via the Mac\u00a0App\u00a0Store may host plug-ins or extensions that are enabled with mechanisms other than the App\u00a0Store.Apps offering \u00e2\u0080\u009cloot boxes\u00e2\u0080\u009d or other mechanisms that provide randomized virtual items for purchase must disclose the odds of receiving",
+      "guideline_codes": [
+        "1.1",
+        "3.1"
+      ]
+    },
+    {
+      "title": "4. Design",
+      "content": "Apple customers place a high value on products that are simple, refined, innovative, and easy to use, and that\u00e2\u0080\u0099s what we want to see on the App\u00a0Store. Coming up with a great design is up to you, but the following are minimum standards for approval to the App\u00a0Store. And remember that even after your app has been approved, you should update your app to ensure it remains functional and engaging to new and existing customers. Apps that stop working or offer a degraded experience may be removed from the App\u00a0Store at any time. 4.1 Copycats(a)Come up with your own ideas. We know you have them, so make yours come to life. Don\u00e2\u0080\u0099t simply copy the latest popular app on the App\u00a0Store, or make some minor changes to another app\u00e2\u0080\u0099s name or UI and pass it off as your own. In addition to risking an intellectual property infringement claim, it makes the App\u00a0Store harder to navigate and just isn\u00e2\u0080\u0099t fair to your fellow developers.(b)Submitting apps which impersonate other apps or services is considered a violation of the Developer Code of Conduct and may result in removal from the Apple\u00a0Developer Program.(c)You cannot use another developer\u00e2\u0080\u0099s icon, brand, or product name in your app\u00e2\u0080\u0099s icon or name, without approval from the developer.4.2 Minimum FunctionalityYour app should include features, content, and UI that elevate it beyond a repackaged website. If your app is not particularly useful, unique, or \u00e2\u0080\u009capp-like,\u00e2\u0080\u009d it doesn\u00e2\u0080\u0099t belong on the App\u00a0Store. If your App doesn\u00e2\u0080\u0099t provide some sort of lasting entertainment value or adequate utility, it may not be accepted. Apps that are simply a song or movie should be submitted to the iTunes\u00a0Store. Apps that are simply a book or game guide should be submitted to the Apple\u00a0Books\u00a0Store.4.2.1Apps using ARKit should provide rich and integrated augmented reality experiences; merely dropping a model into an AR view or replaying animation is not enough.4.2.2Other than catalogs, apps shouldn\u00e2\u0080\u0099t primarily be marketing materials, advertisem",
+      "guideline_codes": [
+        "4.1",
+        "4.2"
+      ]
+    },
+    {
+      "title": "5.Legal",
+      "content": "Apps must comply with all legal requirements in any location where you make them available (if you\u00e2\u0080\u0099re not sure, check with a lawyer). We know this stuff is complicated, but it is your responsibility to understand and make sure your app conforms with all local laws, not just the guidelines below. And of course, apps that solicit, promote, or encourage criminal or clearly reckless behavior will be rejected. In extreme cases, such as apps that are found to facilitate human trafficking and/or the exploitation of children, appropriate authorities will be notified. 5.1PrivacyProtecting user privacy is paramount in the Apple ecosystem, and you should use care when handling personal data to ensure you\u00e2\u0080\u0099ve complied withprivacy best practices, applicable laws, and the terms of theApple\u00a0Developer Program License Agreement, not to mention customer expectations. More particularly:5.1.1Data Collection and Storage(i) Privacy Policies:All apps must include a link to their privacy policy in the App\u00a0Store\u00a0Connect metadata field and within the app in an easily accessible manner. The privacy policy must clearly and explicitly:Identify what data, if any, the app/service collects, how it collects that data, and all uses of that data.Confirm that any third party with whom an app shares user data (in compliance with these Guidelines)\u00e2\u0080\u0094such as analytics tools, advertising networks and third-party SDKs, as well as any parent, subsidiary or other related entities that will have access to user data\u00e2\u0080\u0094will provide the same or equal protection of user data as stated in the app\u00e2\u0080\u0099s privacy policy and required by these Guidelines.Explain its data retention/deletion policies and describe how a user can revoke consent and/or request deletion of the user\u00e2\u0080\u0099s data.(ii) Permission:Apps that collect user or usage data must secure user consent for the collection, even if such data is considered to be anonymous at the time of or immediately following collection. Paid functionality must not be dependen",
+      "guideline_codes": [
+        "5.1"
+      ]
+    },
+    {
+      "title": "After You Submit",
+      "content": "Once you\u00e2\u0080\u0099ve submitted your app and metadata in App\u00a0Store\u00a0Connect and you\u00e2\u0080\u0099re in the review process, here are some things to keep in mind: Timing: App\u00a0Review will examine your app as soon as we can. However, if your app is complex or presents new issues, it may require greater scrutiny and consideration. And remember that if your app is repeatedly rejected for the same guideline violation or you\u00e2\u0080\u0099ve attempted to manipulate the review process, review of your app will take longer to complete. Learn more aboutApp Review.Status Updates: The current status of your app will be reflected in App\u00a0Store\u00a0Connect, so you can keep an eye on things from there.Expedite Requests: If you have a critical timing issue, you canrequest an expedited review. Please respect your fellow developers by seeking expedited review only when you truly need it. If we find you\u00e2\u0080\u0099re abusing this system, we may reject your requests going forward.Release Date: If your release date is set for the future, the app will not appear on the App\u00a0Store until that date, even if it is approved by App\u00a0Review. And remember that it can take up to 24-hours for your app to appear on all selected storefronts.Rejections: Our goal is to apply these guidelines fairly and consistently, but nobody\u00e2\u0080\u0099s perfect. If your app has been rejected and you have questions or would like to provide additional information, please use App\u00a0Store\u00a0Connect to communicate directly with the App\u00a0Review team. This may help get your app on the store, and it can help us improve the App\u00a0Review process or identify a need for clarity in our policies.Appeals: If you disagree with the outcome of your review, pleasesubmit an appeal. This may help get your app on the store. You may alsosuggest changes to the guidelinesthemselves to help us improve the App\u00a0Review process or identify a need for clarity in our policies.Bug Fix Submissions: For apps that are already on the App\u00a0Store or alternative distribution, bug fixes will not be delayed over guideline",
+      "guideline_codes": []
+    },
+    {
+      "title": "Developer Footer",
+      "content": "App StoreApp ReviewApp Review Guidelines PlatformsOpen MenuClose MenuiOSiPadOSmacOStvOSvisionOSwatchOSApp StoreToolsOpen MenuClose MenuSwiftSwiftUISwift PlaygroundTestFlightXcodeXcode CloudIcon ComposerSF SymbolsTechnologiesOpen MenuClose MenuAccessibilityAccessoriesApple IntelligenceAudio & VideoAugmented RealityBusinessDesignDistributionEducationGamesHealth & FitnessIn-App PurchaseLocalizationMaps & LocationMachine Learning & AISecuritySafari & WebResourcesOpen MenuClose MenuDocumentationDownloadsSample CodeVideosSupportOpen MenuClose MenuHelp Guides & ArticlesContact UsForumsFeedback & Bug ReportingSystem StatusAccountOpen MenuClose MenuApple DeveloperApp Store ConnectCertificates, IDs, & ProfilesFeedback AssistantProgramsOpen MenuClose MenuApple Developer ProgramApple Developer Enterprise ProgramApp Store Small Business ProgramMFi ProgramMini Apps Partner ProgramNews Partner ProgramVideo Partner ProgramSecurity Bounty ProgramSecurity Research Device ProgramEventsOpen MenuClose MenuMeet with AppleApple Developer CentersApp Store AwardsApple Design AwardsApple Developer AcademiesWWDC Read thelatest newsGet theApple Developer app.LightDarkAutoCopyright \u00c2\u00a9  2026Apple Inc.All rights reserved.Terms of UsePrivacy PolicyAgreements and Guidelines",
+      "guideline_codes": []
+    },
+    {
+      "title": "Platforms",
+      "content": "",
+      "guideline_codes": []
+    },
+    {
+      "title": "Tools",
+      "content": "",
+      "guideline_codes": []
+    },
+    {
+      "title": "Technologies",
+      "content": "",
+      "guideline_codes": []
+    },
+    {
+      "title": "Resources",
+      "content": "",
+      "guideline_codes": []
+    },
+    {
+      "title": "Support",
+      "content": "",
+      "guideline_codes": []
+    },
+    {
+      "title": "Account",
+      "content": "",
+      "guideline_codes": []
+    },
+    {
+      "title": "Programs",
+      "content": "",
+      "guideline_codes": []
+    },
+    {
+      "title": "Events",
+      "content": "",
+      "guideline_codes": []
+    }
+  ]
+}

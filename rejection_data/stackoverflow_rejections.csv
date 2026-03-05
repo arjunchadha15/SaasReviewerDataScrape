@@ -1,0 +1,7 @@
+source,url,title,body,guideline_codes,rejection_type,upvotes,num_comments,scraped_at
+stackoverflow,https://stackoverflow.com/questions/37637818/ipv6-app-store-rejection,IPv6 App Store Rejection," Our update has been rejected twice today for ipv6 network connectivity issues. Our networking code has not changed between the previous release and this current release.  
+
+ The app only makes https network requests to api.metooapp.io, which is correctly configured for ipv6 [ 0 ] and runs behind route53 on AWS. There are no hard-coded IP addresses in the code. 
+
+ I am unable to reproduce this issue, even after following the steps to create an ipv6 network at [ 1 ] which is the link that was provided in the rejection notice. It looks like I'm not the only one experiencing this issue, either [ 2 ]. 
+",[],Other,90,13,2026-03-04T22:56:05.453953
